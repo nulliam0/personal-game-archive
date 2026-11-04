@@ -1,0 +1,186 @@
+[
+  {
+    "id": "13-sentinels",
+    "name": "13 Sentinels: Aegis Rim",
+    "platform": "Switch",
+    "language": "fan",
+    "description": "13 переплетённых историй, научная фантастика, отношения и сильная режиссура.",
+    "translationUrl": "https://www.playground.ru/13_sentinels_aegis_rim/file/13_sentinels_aegis_rim_rusifikator_teksta_dlya_switch_versii_v1_0_rishin_alchemistlab-1255226"
+  },
+  {
+    "id": "astral-chain",
+    "name": "Astral Chain",
+    "platform": "Switch",
+    "language": "official",
+    "description": "Экшен PlatinumGames, эффектные бои и киберпанк. Для поклонника MGR и NieR.",
+    "translationUrl": ""
+  },
+  {
+    "id": "ghost-trick-switch",
+    "name": "Ghost Trick: Phantom Detective",
+    "platform": "Switch",
+    "language": "fan",
+    "description": "Абсурдный юмор, необычный детектив и эмоциональная развязка.",
+    "translationUrl": "https://gamecom.neocities.org/Ace_Attorney/Translations/Ghost_Trick_Switch/"
+  },
+  {
+    "id": "links-awakening",
+    "name": "The Legend of Zelda: Link's Awakening",
+    "platform": "Switch",
+    "language": "official",
+    "description": "Камерная сказка с меланхолией и приятным исследованием.",
+    "translationUrl": ""
+  },
+  {
+    "id": "paranormasight",
+    "name": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+    "platform": "Switch",
+    "language": "fan",
+    "description": "Японская мистика, загадки и нестандартное повествование.",
+    "translationUrl": "https://lokalych.ru/patches/paranormasight-1"
+  },
+  {
+    "id": "unicorn-overlord",
+    "name": "Unicorn Overlord",
+    "platform": "Switch",
+    "language": "fan",
+    "description": "Тактическая RPG Vanillaware с рисованной графикой. Машинный перевод; совместимость требует проверки.",
+    "translationUrl": "https://4pda.to/forum/index.php?showtopic=937297"
+  },
+  {
+    "id": "ai-somnium",
+    "name": "AI: The Somnium Files",
+    "platform": "Switch",
+    "language": "fan",
+    "description": "Научно-фантастический детектив, яркие персонажи и абсурдный юмор.",
+    "translationUrl": "https://www.playground.ru/ai_the_somnium_files/file/ai_the_somnium_files_rusifikator_teksta_v1_05_rikukh3-1172056"
+  },
+  {
+    "id": "neo-twewy",
+    "name": "NEO: The World Ends with You",
+    "platform": "Switch",
+    "language": "check",
+    "description": "Сибуя, стиль, музыка и молодёжная драма. Проверить перевод Switch.",
+    "translationUrl": ""
+  },
+  {
+    "id": "new-horizons",
+    "name": "Animal Crossing: New Horizons",
+    "platform": "Switch",
+    "language": "official",
+    "description": "Уютная повседневность. New Leaf нравится больше, но эту удобно запускать короткими сессиями.",
+    "translationUrl": ""
+  },
+  {
+    "id": "disco-elysium",
+    "name": "Disco Elysium: The Final Cut",
+    "platform": "Switch",
+    "language": "official",
+    "description": "Авторская история с философией и абсурдом. Switch-порт с компромиссами.",
+    "translationUrl": ""
+  },
+  {
+    "id": "radiant-historia",
+    "name": "Radiant Historia: Perfect Chronology",
+    "platform": "3DS",
+    "language": "check",
+    "description": "История о судьбе, выборе и ответственности. Русский для 3DS не подтверждён.",
+    "translationUrl": ""
+  },
+  {
+    "id": "persona-q",
+    "name": "Persona Q: Shadow of the Labyrinth",
+    "platform": "3DS",
+    "language": "check",
+    "description": "Встреча героев Persona 3 и 4. Русский для 3DS не подтверждён.",
+    "translationUrl": ""
+  },
+  {
+    "id": "new-leaf",
+    "name": "Animal Crossing: New Leaf",
+    "platform": "3DS",
+    "language": "check",
+    "description": "Любимая Animal Crossing. Проверить локализацию конкретного релиза.",
+    "translationUrl": ""
+  },
+  {
+    "id": "fantasy-life",
+    "name": "Fantasy Life",
+    "platform": "3DS",
+    "language": "check",
+    "description": "Уютный мир и множество профессий. Перевод не подтверждён.",
+    "translationUrl": ""
+  },
+  {
+    "id": "twewy-ds",
+    "name": "The World Ends with You",
+    "platform": "DS",
+    "language": "check",
+    "description": "Необычный двухэкранный экшен о взрослении и связях. Русский DS не подтверждён.",
+    "translationUrl": ""
+  },
+  {
+    "id": "ghost-trick-ds",
+    "name": "Ghost Trick: Phantom Detective (DS)",
+    "platform": "DS",
+    "language": "check",
+    "description": "Оригинальная версия детектива; русский для DS перепроверить.",
+    "translationUrl": ""
+  },
+  {
+    "id": "outer-wilds",
+    "name": "Outer Wilds",
+    "platform": "PC",
+    "language": "official",
+    "description": "Исследование и тайна, которую лучше открывать без спойлеров.",
+    "translationUrl": ""
+  },
+  {
+    "id": "signalis",
+    "name": "SIGNALIS",
+    "platform": "PC",
+    "language": "official",
+    "description": "Атмосферный хоррор о памяти, любви и идентичности.",
+    "translationUrl": ""
+  },
+  {
+    "id": "judgment",
+    "name": "Judgment",
+    "platform": "PC",
+    "language": "check",
+    "description": "Криминальный детектив от создателей Yakuza; перевод проверить.",
+    "translationUrl": ""
+  },
+  {
+    "id": "nier-replicant",
+    "name": "NieR Replicant",
+    "platform": "PC",
+    "language": "check",
+    "description": "Эмоциональная история, музыка и сильные персонажи; русский проверить.",
+    "translationUrl": ""
+  },
+  {
+    "id": "finding-paradise",
+    "name": "Finding Paradise",
+    "platform": "PC",
+    "language": "check",
+    "description": "Продолжение авторских историй после To the Moon; русский проверить.",
+    "translationUrl": ""
+  },
+  {
+    "id": "reverse-1999",
+    "name": "Reverse: 1999",
+    "platform": "Android",
+    "language": "check",
+    "description": "Стильная сюжетная RPG; наличие русского в актуальной версии проверить.",
+    "translationUrl": ""
+  },
+  {
+    "id": "afterplace",
+    "name": "Afterplace",
+    "platform": "Android",
+    "language": "check",
+    "description": "Небольшая оригинальная RPG для телефона; перевод проверить.",
+    "translationUrl": ""
+  }
+]
