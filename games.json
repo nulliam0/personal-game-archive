@@ -6,7 +6,7 @@
     "language": "fan",
     "description": "13 переплетённых историй, научная фантастика, отношения и сильная режиссура.",
     "translationUrl": "https://www.playground.ru/13_sentinels_aegis_rim/file/13_sentinels_aegis_rim_rusifikator_teksta_dlya_switch_versii_v1_0_rishin_alchemistlab-1255226",
-    "coverUrl": ""
+    "coverUrl": "https://retronorthgames.com/cdn/shop/files/13sentinelsaegisrimnintendoswitch.jpg?v=1779484003"
   },
   {
     "id": "astral-chain",
@@ -15,7 +15,7 @@
     "language": "official",
     "description": "Экшен PlatinumGames, эффектные бои и киберпанк. Для поклонника MGR и NieR.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://i.ebayimg.com/images/g/hRQAAOSwMJFlCFFg/s-l1600.jpg"
   },
   {
     "id": "ghost-trick-switch",
@@ -33,7 +33,7 @@
     "language": "official",
     "description": "Камерная сказка с меланхолией и приятным исследованием.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://www.kroger.com/product/images/xlarge/front/0004549659654"
   },
   {
     "id": "paranormasight",
@@ -78,7 +78,7 @@
     "language": "official",
     "description": "Уютная повседневность. New Leaf нравится больше, но эту удобно запускать короткими сессиями.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://cdn.awsli.com.br/2500x2500/1919/1919257/produto/227859580/animalcrossing-1-c9hwj4b6xt.png"
   },
   {
     "id": "disco-elysium",
@@ -96,7 +96,7 @@
     "language": "check",
     "description": "История о судьбе, выборе и ответственности. Русский для 3DS не подтверждён.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%203DS/Named_Boxarts/Radiant%20Historia%20-%20Perfect%20Chronology%20(USA).png"
   },
   {
     "id": "persona-q",
@@ -105,7 +105,7 @@
     "language": "check",
     "description": "Встреча героев Persona 3 и 4. Русский для 3DS не подтверждён.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%203DS/Named_Boxarts/Persona%20Q%20-%20Shadow%20of%20the%20Labyrinth%20(USA).png"
   },
   {
     "id": "new-leaf",
@@ -114,7 +114,7 @@
     "language": "check",
     "description": "Любимая Animal Crossing. Проверить локализацию конкретного релиза.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%203DS/Named_Boxarts/Animal%20Crossing%20-%20New%20Leaf%20(USA).png"
   },
   {
     "id": "fantasy-life",
@@ -123,7 +123,7 @@
     "language": "check",
     "description": "Уютный мир и множество профессий. Перевод не подтверждён.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%203DS/Named_Boxarts/Fantasy%20Life%20(USA).png"
   },
   {
     "id": "twewy-ds",
@@ -132,7 +132,7 @@
     "language": "check",
     "description": "Необычный двухэкранный экшен о взрослении и связях. Русский DS не подтверждён.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%20DS/Named_Boxarts/World%20Ends%20with%20You%2C%20The%20(USA).png"
   },
   {
     "id": "ghost-trick-ds",
@@ -141,7 +141,7 @@
     "language": "check",
     "description": "Оригинальная версия детектива; русский для DS перепроверить.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%20DS/Named_Boxarts/Ghost%20Trick%20-%20Phantom%20Detective%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).png"
   },
   {
     "id": "outer-wilds",
@@ -195,7 +195,7 @@
     "language": "check",
     "description": "Стильная сюжетная RPG; наличие русского в актуальной версии проверить.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3092660/library_600x900.jpg"
   },
   {
     "id": "afterplace",
@@ -204,6 +204,6 @@
     "language": "check",
     "description": "Небольшая оригинальная RPG для телефона; перевод проверить.",
     "translationUrl": "",
-    "coverUrl": ""
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2721530/library_600x900.jpg"
   }
 ]
