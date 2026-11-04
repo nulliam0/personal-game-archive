@@ -1,0 +1,56 @@
+name: Cache game covers
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - games.json
+      - .github/workflows/cache-covers.yml
+permissions:
+  contents: write
+jobs:
+  covers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and validate cover thumbnails
+        run: |
+          python3 - <<'PY'
+          import json, pathlib, urllib.request, io, imghdr
+          games=json.loads(pathlib.Path('games.json').read_text())
+          out=pathlib.Path('covers')
+          out.mkdir(exist_ok=True)
+          report=[]
+          for game in games:
+              dest=out/(game['id']+'.jpg')
+              url=game.get('coverSourceUrl') or game.get('coverUrl','')
+              if not url or url.startswith('covers/'):
+                  report.append({'id':game['id'],'status':'no-source'})
+                  continue
+              try:
+                  req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 (PersonalGameArchive cover cache)'})
+                  with urllib.request.urlopen(req,timeout=15) as response:
+                      data=response.read(3000000)
+                      mime=response.headers.get('Content-Type','')
+                  kind=imghdr.what(None,data)
+                  if kind not in ('png','jpeg','webp') or len(data)<3000:
+                      raise ValueError('not a valid image')
+                  extension={'png':'.png','jpeg':'.jpg','webp':'.webp'}[kind]
+                  for old in out.glob(game['id']+'.*'):
+                      if old.suffix in ('.png','.jpg','.webp') and old.suffix!=extension: old.unlink()
+                  path=out/(game['id']+extension)
+                  path.write_bytes(data)
+                  game['coverSourceUrl']=url
+                  game['coverUrl']='covers/'+path.name
+                  report.append({'id':game['id'],'status':'cached'})
+              except Exception as ex:
+                  report.append({'id':game['id'],'status':'failed','error':str(ex)[:120]})
+          pathlib.Path('games.json').write_text(json.dumps(games,ensure_ascii=False,indent=2)+'\n')
+          pathlib.Path('cover-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+          print('Cached:',sum(x['status']=='cached' for x in report),'of',len(report))
+          PY
+      - name: Commit validated covers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add covers games.json cover-report.json
+          if ! git diff --cached --quiet; then git commit -m "Cache validated game cover images"; git push; fi
