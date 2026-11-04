@@ -5,7 +5,8 @@
     "platform": "Switch",
     "language": "fan",
     "description": "13 переплетённых историй, научная фантастика, отношения и сильная режиссура.",
-    "translationUrl": "https://www.playground.ru/13_sentinels_aegis_rim/file/13_sentinels_aegis_rim_rusifikator_teksta_dlya_switch_versii_v1_0_rishin_alchemistlab-1255226"
+    "translationUrl": "https://www.playground.ru/13_sentinels_aegis_rim/file/13_sentinels_aegis_rim_rusifikator_teksta_dlya_switch_versii_v1_0_rishin_alchemistlab-1255226",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Switch/master/Named_Boxarts/13%20Sentinels%20-%20Aegis%20Rim.png"
   },
   {
     "id": "astral-chain",
@@ -13,7 +14,8 @@
     "platform": "Switch",
     "language": "official",
     "description": "Экшен PlatinumGames, эффектные бои и киберпанк. Для поклонника MGR и NieR.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Switch/master/Named_Boxarts/Astral%20Chain.png"
   },
   {
     "id": "ghost-trick-switch",
@@ -21,7 +23,8 @@
     "platform": "Switch",
     "language": "fan",
     "description": "Абсурдный юмор, необычный детектив и эмоциональная развязка.",
-    "translationUrl": "https://gamecom.neocities.org/Ace_Attorney/Translations/Ghost_Trick_Switch/"
+    "translationUrl": "https://gamecom.neocities.org/Ace_Attorney/Translations/Ghost_Trick_Switch/",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1967430/library_600x900.jpg"
   },
   {
     "id": "links-awakening",
@@ -29,7 +32,8 @@
     "platform": "Switch",
     "language": "official",
     "description": "Камерная сказка с меланхолией и приятным исследованием.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Switch/master/Named_Boxarts/The%20Legend%20of%20Zelda%20-%20Link's%20Awakening.png"
   },
   {
     "id": "paranormasight",
@@ -37,7 +41,8 @@
     "platform": "Switch",
     "language": "fan",
     "description": "Японская мистика, загадки и нестандартное повествование.",
-    "translationUrl": "https://lokalych.ru/patches/paranormasight-1"
+    "translationUrl": "https://lokalych.ru/patches/paranormasight-1",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2106840/library_600x900.jpg"
   },
   {
     "id": "unicorn-overlord",
@@ -45,7 +50,8 @@
     "platform": "Switch",
     "language": "fan",
     "description": "Тактическая RPG Vanillaware с рисованной графикой. Машинный перевод; совместимость требует проверки.",
-    "translationUrl": "https://4pda.to/forum/index.php?showtopic=937297"
+    "translationUrl": "https://4pda.to/forum/index.php?showtopic=937297",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1650800/library_600x900.jpg"
   },
   {
     "id": "ai-somnium",
@@ -53,7 +59,8 @@
     "platform": "Switch",
     "language": "fan",
     "description": "Научно-фантастический детектив, яркие персонажи и абсурдный юмор.",
-    "translationUrl": "https://www.playground.ru/ai_the_somnium_files/file/ai_the_somnium_files_rusifikator_teksta_v1_05_rikukh3-1172056"
+    "translationUrl": "https://www.playground.ru/ai_the_somnium_files/file/ai_the_somnium_files_rusifikator_teksta_v1_05_rikukh3-1172056",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/948740/library_600x900.jpg"
   },
   {
     "id": "neo-twewy",
@@ -61,7 +68,8 @@
     "platform": "Switch",
     "language": "check",
     "description": "Сибуя, стиль, музыка и молодёжная драма. Проверить перевод Switch.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1647550/library_600x900.jpg"
   },
   {
     "id": "new-horizons",
@@ -69,7 +77,8 @@
     "platform": "Switch",
     "language": "official",
     "description": "Уютная повседневность. New Leaf нравится больше, но эту удобно запускать короткими сессиями.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_Switch/master/Named_Boxarts/Animal%20Crossing%20-%20New%20Horizons.png"
   },
   {
     "id": "disco-elysium",
@@ -77,7 +86,8 @@
     "platform": "Switch",
     "language": "official",
     "description": "Авторская история с философией и абсурдом. Switch-порт с компромиссами.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/library_600x900.jpg"
   },
   {
     "id": "radiant-historia",
@@ -85,7 +95,8 @@
     "platform": "3DS",
     "language": "check",
     "description": "История о судьбе, выборе и ответственности. Русский для 3DS не подтверждён.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Radiant%20Historia%20-%20Perfect%20Chronology.png"
   },
   {
     "id": "persona-q",
@@ -93,7 +104,8 @@
     "platform": "3DS",
     "language": "check",
     "description": "Встреча героев Persona 3 и 4. Русский для 3DS не подтверждён.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Persona%20Q%20-%20Shadow%20of%20the%20Labyrinth.png"
   },
   {
     "id": "new-leaf",
@@ -101,7 +113,8 @@
     "platform": "3DS",
     "language": "check",
     "description": "Любимая Animal Crossing. Проверить локализацию конкретного релиза.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Animal%20Crossing%20-%20New%20Leaf.png"
   },
   {
     "id": "fantasy-life",
@@ -109,7 +122,8 @@
     "platform": "3DS",
     "language": "check",
     "description": "Уютный мир и множество профессий. Перевод не подтверждён.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_3DS/master/Named_Boxarts/Fantasy%20Life.png"
   },
   {
     "id": "twewy-ds",
@@ -117,7 +131,8 @@
     "platform": "DS",
     "language": "check",
     "description": "Необычный двухэкранный экшен о взрослении и связях. Русский DS не подтверждён.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/The%20World%20Ends%20with%20You.png"
   },
   {
     "id": "ghost-trick-ds",
@@ -125,7 +140,8 @@
     "platform": "DS",
     "language": "check",
     "description": "Оригинальная версия детектива; русский для DS перепроверить.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Nintendo_DS/master/Named_Boxarts/Ghost%20Trick%20-%20Phantom%20Detective.png"
   },
   {
     "id": "outer-wilds",
@@ -133,7 +149,8 @@
     "platform": "PC",
     "language": "official",
     "description": "Исследование и тайна, которую лучше открывать без спойлеров.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/753640/library_600x900.jpg"
   },
   {
     "id": "signalis",
@@ -141,7 +158,8 @@
     "platform": "PC",
     "language": "official",
     "description": "Атмосферный хоррор о памяти, любви и идентичности.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1262350/library_600x900.jpg"
   },
   {
     "id": "judgment",
@@ -149,7 +167,8 @@
     "platform": "PC",
     "language": "check",
     "description": "Криминальный детектив от создателей Yakuza; перевод проверить.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/2058180/library_600x900.jpg"
   },
   {
     "id": "nier-replicant",
@@ -157,7 +176,8 @@
     "platform": "PC",
     "language": "check",
     "description": "Эмоциональная история, музыка и сильные персонажи; русский проверить.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/1113560/library_600x900.jpg"
   },
   {
     "id": "finding-paradise",
@@ -165,7 +185,8 @@
     "platform": "PC",
     "language": "check",
     "description": "Продолжение авторских историй после To the Moon; русский проверить.",
-    "translationUrl": ""
+    "translationUrl": "",
+    "coverUrl": "https://cdn.cloudflare.steamstatic.com/steam/apps/337340/library_600x900.jpg"
   },
   {
     "id": "reverse-1999",
