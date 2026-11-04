@@ -1,0 +1,95 @@
+[
+  {
+    "id": "13-sentinels",
+    "status": "cached"
+  },
+  {
+    "id": "astral-chain",
+    "status": "cached"
+  },
+  {
+    "id": "ghost-trick-switch",
+    "status": "cached"
+  },
+  {
+    "id": "links-awakening",
+    "status": "cached"
+  },
+  {
+    "id": "paranormasight",
+    "status": "cached"
+  },
+  {
+    "id": "unicorn-overlord",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "ai-somnium",
+    "status": "cached"
+  },
+  {
+    "id": "neo-twewy",
+    "status": "cached"
+  },
+  {
+    "id": "new-horizons",
+    "status": "cached"
+  },
+  {
+    "id": "disco-elysium",
+    "status": "cached"
+  },
+  {
+    "id": "radiant-historia",
+    "status": "cached"
+  },
+  {
+    "id": "persona-q",
+    "status": "cached"
+  },
+  {
+    "id": "new-leaf",
+    "status": "cached"
+  },
+  {
+    "id": "fantasy-life",
+    "status": "cached"
+  },
+  {
+    "id": "twewy-ds",
+    "status": "cached"
+  },
+  {
+    "id": "ghost-trick-ds",
+    "status": "cached"
+  },
+  {
+    "id": "outer-wilds",
+    "status": "cached"
+  },
+  {
+    "id": "signalis",
+    "status": "cached"
+  },
+  {
+    "id": "judgment",
+    "status": "cached"
+  },
+  {
+    "id": "nier-replicant",
+    "status": "cached"
+  },
+  {
+    "id": "finding-paradise",
+    "status": "cached"
+  },
+  {
+    "id": "reverse-1999",
+    "status": "cached"
+  },
+  {
+    "id": "afterplace",
+    "status": "cached"
+  }
+]
