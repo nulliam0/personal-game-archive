@@ -105,7 +105,7 @@
     "language": "official",
     "description": "После Balatro и Hades: необычный карточный рогалик с загадками и сюрпризами. Лучше играть без сюжетных спойлеров. Официальный русский на Switch.",
     "translationUrl": "",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/library_600x900.jpg",
+    "coverUrl": "covers/inscryption.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/library_600x900.jpg"
   },
   {
@@ -115,7 +115,7 @@
     "language": "official",
     "description": "После Dave the Diver и Stray: рыбалка, улучшение лодки, исследование и тревожная атмосфера. Официальный русский на Switch.",
     "translationUrl": "",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562430/library_600x900.jpg",
+    "coverUrl": "covers/dredge.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562430/library_600x900.jpg"
   },
   {
@@ -125,7 +125,7 @@
     "language": "official",
     "description": "Продолжение любимой Hades: новые сочетания умений, запоминающиеся персонажи, музыка и забеги. Есть версия именно для Switch 1 с официальным русским.",
     "translationUrl": "",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg",
+    "coverUrl": "covers/hades-ii.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg"
   },
   {
@@ -135,7 +135,7 @@
     "language": "official",
     "description": "После Ghostrunner, Katana ZERO и Hi-Fi Rush: быстрые схватки, напряжение и исследование связанного мира. Официальный русский на Switch.",
     "translationUrl": "",
-    "coverUrl": "https://panageek.com/cdn/shop/files/Disenosintitulo-2026-02-26T183844.863.png?v=1772145548",
+    "coverUrl": "covers/metroid-dread.png",
     "coverSourceUrl": "https://panageek.com/cdn/shop/files/Disenosintitulo-2026-02-26T183844.863.png?v=1772145548"
   },
   {
@@ -145,7 +145,7 @@
     "language": "official",
     "description": "Знакомые герои любимой Persona 5 в сюжетной тактической RPG. Сражения и стиль серии; официальный русский на Switch.",
     "translationUrl": "",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2254740/library_600x900.jpg",
+    "coverUrl": "covers/persona-5-tactica.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2254740/library_600x900.jpg"
   },
   {
@@ -155,7 +155,7 @@
     "language": "official",
     "description": "После Ghostrunner и Hi-Fi Rush: отзывчивый платформинг, акробатика, интенсивные бои и исследование. Официальный русский на Switch.",
     "translationUrl": "",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2751000/library_600x900.jpg",
+    "coverUrl": "covers/prince-of-persia-lost-crown.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2751000/library_600x900.jpg"
   },
   {
@@ -165,7 +165,7 @@
     "language": "official",
     "description": "После NieR и атмосферных инди: музыка, эмоциональная история, плавное движение и исследование. Официальный русский на Switch.",
     "translationUrl": "",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/library_600x900.jpg",
+    "coverUrl": "covers/ori-will-of-the-wisps.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/library_600x900.jpg"
   },
   {
@@ -175,7 +175,7 @@
     "language": "official",
     "description": "Для любителя авторских игр: тайны, скрытые механики, необычные загадки и самостоятельные открытия. Официальный русский на Switch.",
     "translationUrl": "",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553420/library_600x900.jpg",
+    "coverUrl": "covers/tunic.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553420/library_600x900.jpg"
   },
   {
@@ -185,7 +185,7 @@
     "language": "official",
     "description": "После Final Fantasy IX и Clair Obscur: пиксельная JRPG с пошаговыми боями, таймингами и путешествием. Официальный русский на Switch.",
     "translationUrl": "",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1244090/library_600x900.jpg",
+    "coverUrl": "covers/sea-of-stars.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1244090/library_600x900.jpg"
   },
   {
@@ -195,7 +195,7 @@
     "language": "official",
     "description": "Меланхоличная метроидвания с выразительной музыкой, исследованиями и развитием боевых умений. Официальный русский на Switch.",
     "translationUrl": "",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1369630/library_600x900.jpg",
+    "coverUrl": "covers/ender-lilies.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1369630/library_600x900.jpg"
   },
   {
@@ -205,7 +205,7 @@
     "language": "fan",
     "description": "После Final Fantasy IX: насыщенная сюжетная JRPG с тактическими боями. Фанатский русский для Switch (LayeredFS) подтверждён для игры 1.31 (v851968); актуальные обновления и DLC проверять отдельно.",
     "translationUrl": "https://www.playground.ru/chained_echoes/file/chained_echoes_rusifikator_teksta_v1_0_alchemistlab_release_mixa_pulemet-1680407",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229240/library_600x900.jpg",
+    "coverUrl": "covers/chained-echoes.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229240/library_600x900.jpg"
   },
   {
