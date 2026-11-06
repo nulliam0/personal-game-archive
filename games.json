@@ -99,6 +99,116 @@
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/library_600x900.jpg"
   },
   {
+    "id": "inscryption",
+    "name": "Inscryption",
+    "platform": "Switch",
+    "language": "official",
+    "description": "После Balatro и Hades: необычный карточный рогалик с загадками и сюрпризами. Лучше играть без сюжетных спойлеров. Официальный русский на Switch.",
+    "translationUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/library_600x900.jpg"
+  },
+  {
+    "id": "dredge",
+    "name": "DREDGE",
+    "platform": "Switch",
+    "language": "official",
+    "description": "После Dave the Diver и Stray: рыбалка, улучшение лодки, исследование и тревожная атмосфера. Официальный русский на Switch.",
+    "translationUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562430/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562430/library_600x900.jpg"
+  },
+  {
+    "id": "hades-ii",
+    "name": "Hades II",
+    "platform": "Switch",
+    "language": "official",
+    "description": "Продолжение любимой Hades: новые сочетания умений, запоминающиеся персонажи, музыка и забеги. Есть версия именно для Switch 1 с официальным русским.",
+    "translationUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg"
+  },
+  {
+    "id": "metroid-dread",
+    "name": "Metroid Dread",
+    "platform": "Switch",
+    "language": "official",
+    "description": "После Ghostrunner, Katana ZERO и Hi-Fi Rush: быстрые схватки, напряжение и исследование связанного мира. Официальный русский на Switch.",
+    "translationUrl": "",
+    "coverUrl": "https://panageek.com/cdn/shop/files/Disenosintitulo-2026-02-26T183844.863.png?v=1772145548",
+    "coverSourceUrl": "https://panageek.com/cdn/shop/files/Disenosintitulo-2026-02-26T183844.863.png?v=1772145548"
+  },
+  {
+    "id": "persona-5-tactica",
+    "name": "Persona 5 Tactica",
+    "platform": "Switch",
+    "language": "official",
+    "description": "Знакомые герои любимой Persona 5 в сюжетной тактической RPG. Сражения и стиль серии; официальный русский на Switch.",
+    "translationUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2254740/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2254740/library_600x900.jpg"
+  },
+  {
+    "id": "prince-of-persia-lost-crown",
+    "name": "Prince of Persia: The Lost Crown",
+    "platform": "Switch",
+    "language": "official",
+    "description": "После Ghostrunner и Hi-Fi Rush: отзывчивый платформинг, акробатика, интенсивные бои и исследование. Официальный русский на Switch.",
+    "translationUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2751000/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2751000/library_600x900.jpg"
+  },
+  {
+    "id": "ori-will-of-the-wisps",
+    "name": "Ori and the Will of the Wisps",
+    "platform": "Switch",
+    "language": "official",
+    "description": "После NieR и атмосферных инди: музыка, эмоциональная история, плавное движение и исследование. Официальный русский на Switch.",
+    "translationUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/library_600x900.jpg"
+  },
+  {
+    "id": "tunic",
+    "name": "TUNIC",
+    "platform": "Switch",
+    "language": "official",
+    "description": "Для любителя авторских игр: тайны, скрытые механики, необычные загадки и самостоятельные открытия. Официальный русский на Switch.",
+    "translationUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553420/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553420/library_600x900.jpg"
+  },
+  {
+    "id": "sea-of-stars",
+    "name": "Sea of Stars",
+    "platform": "Switch",
+    "language": "official",
+    "description": "После Final Fantasy IX и Clair Obscur: пиксельная JRPG с пошаговыми боями, таймингами и путешествием. Официальный русский на Switch.",
+    "translationUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1244090/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1244090/library_600x900.jpg"
+  },
+  {
+    "id": "ender-lilies",
+    "name": "ENDER LILIES: Quietus of the Knights",
+    "platform": "Switch",
+    "language": "official",
+    "description": "Меланхоличная метроидвания с выразительной музыкой, исследованиями и развитием боевых умений. Официальный русский на Switch.",
+    "translationUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1369630/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1369630/library_600x900.jpg"
+  },
+  {
+    "id": "chained-echoes",
+    "name": "Chained Echoes",
+    "platform": "Switch",
+    "language": "fan",
+    "description": "После Final Fantasy IX: насыщенная сюжетная JRPG с тактическими боями. Фанатский русский для Switch (LayeredFS) подтверждён для игры 1.31 (v851968); актуальные обновления и DLC проверять отдельно.",
+    "translationUrl": "https://www.playground.ru/chained_echoes/file/chained_echoes_rusifikator_teksta_v1_0_alchemistlab_release_mixa_pulemet-1680407",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229240/library_600x900.jpg",
+    "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1229240/library_600x900.jpg"
+  },
+  {
     "id": "radiant-historia",
     "name": "Radiant Historia: Perfect Chronology",
     "platform": "3DS",
