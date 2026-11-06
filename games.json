@@ -313,8 +313,8 @@
     "id": "finding-paradise",
     "name": "Finding Paradise",
     "platform": "PC",
-    "language": "check",
-    "description": "Продолжение авторских историй после To the Moon; русский проверить.",
+    "language": "official",
+    "description": "Продолжение авторских историй после To the Moon. Официальный русский перевод интерфейса и субтитров на PC (Steam); отдельный русификатор не требуется.",
     "translationUrl": "",
     "coverUrl": "covers/finding-paradise.jpg",
     "coverSourceUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337340/library_600x900.jpg"
