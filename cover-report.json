@@ -21,8 +21,7 @@
   },
   {
     "id": "unicorn-overlord",
-    "status": "failed",
-    "error": "HTTP Error 404: Not Found"
+    "status": "cached"
   },
   {
     "id": "ai-somnium",
